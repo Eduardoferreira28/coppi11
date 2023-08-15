@@ -1,0 +1,19 @@
+*{ 
+    background-color (255, 238, 238);
+}
+.titulo {
+    text-align: center;
+    text-transform: uppercase;
+    font-size: large;
+    font-style: italic;
+    font-weight: 600;
+}
+.projects {
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.projects img {
+    border: 10px solid greenyellow 10%; 
+    border-radius: 20px;
+}
